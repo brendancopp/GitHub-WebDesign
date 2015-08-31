@@ -1,7 +1,7 @@
 # GitHub-WebDesign
 WebDesign-Portfolio
 
-This GitHub Branch contains several progects ment to display proficency in Java & LuaScript
+This GitHub Branch contains several projects ment to display proficency in Java & LuaScript
 
   File Index
   
