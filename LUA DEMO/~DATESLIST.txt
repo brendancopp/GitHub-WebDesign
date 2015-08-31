@@ -1,0 +1,13 @@
+List Of Emailed Dates 
+
+-------------------------------
+Date = dec 31   FileName - Doug (Multiple month names).txt
+
+Date = may 2   FileName - OfFile.txt
+
+Date = feb 21   FileName - Jeb (Short Month With Caps).txt
+
+File name [ Ex. Not actual file ] was not found
+
+Please Manually Check File  -  Bob (no date).txt
+
